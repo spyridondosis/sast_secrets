@@ -1,0 +1,6 @@
+import requests
+
+secret="ghp_eiENwfAHWVThxgohJOwysUsYpCGrw1234567"
+aws_key="AKIAWMI5XHPK3PV3L7FQ"
+secret="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"
+stripe_key="sk_live_cHMVz1234XR49l5dM2123456"
